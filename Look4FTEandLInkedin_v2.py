@@ -5,8 +5,8 @@ import requests
 import re
 
 # File paths
-input_file = r"C:\Users\javier.fajardo\OneDrive - ENS SOLUTIONS SINGLE MEMBER PC\Documents\Projects\Projects with David\FTE_Linkedin\CompleteFile_NoFTE.xlsx"
-output_file = r"C:\Users\javier.fajardo\OneDrive - ENS SOLUTIONS SINGLE MEMBER PC\Documents\Projects\Projects with David\FTE_Linkedin\CompleteFile_FTE_Linkedin_V2.xlsx"
+input_file = r"\Users.xlsx"
+output_file = r"\Users.xlsx"
 
 # Load the Excel file into a DataFrame
 df = pd.read_excel(input_file)
