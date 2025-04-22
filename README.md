@@ -1,5 +1,4 @@
 # Look for FTEs and Linkedin
-# Look4FTEandLinkedin_v2
 
 This script is designed to enrich a company dataset by retrieving employee count estimates and official LinkedIn URLs for companies using web scraping and the Google Search API.
 
